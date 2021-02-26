@@ -23,3 +23,15 @@
 
 - 😄 Chiste: Hay 10 tipos de personas en este mundo. Aquellos que entienden binario. Y los que no.
   ¿Qué tipo de persona eres? xD
+
+Horario Escolar
+
+| Hora          | Lunes                               | Martes                               | Miercoles                            | Jueves                               | Viernes                              |
+|---------------|-------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| 14:00 - 15:00 | Administración y Seguridad de redes | Administración y Seguridad de rAedes | Administración y  Seguridad de Redes | Administración y  Seguridad de Redes | Administración y  Seguridad de Redes |
+| 15:00 - 16:00 | Ing. del Conocimiento               | Ing. del Conocimiemto                | Ing. del Conocimiento                | Ing. del Conocimiento                |                                      |
+| 16:00 - 17:00 | Cómputo Distribuido                 | Cómputo Distribuido                  | Cómputo Distribuido                  | Cómputo Distribuido                  | Cómputo Distribuido                  |
+| 17:00 - 18:00 | Minería de Datos                    | Minería de Datos                     | Minería de Datos                     | Minería de Datos                     | Minería de Datos                     |
+| 18:00 - 19:00 | Negocios Electrónicos II            | Negocios Electrónicos II             | Negocios Electrónicos II             | Negocios Electrónicos II             |                                      |
+| 19:00 - 20:00 | !!Libre!!                           | !!Libre!!                            | !!Libre!!                            | !!Libre!!                            |                                      |
+| 20:00 - 21:00 | Auditoría en TI                     | Auditoría en TI                      | Auditoría en TI                      | Auditoría en TI                      |                                      |
