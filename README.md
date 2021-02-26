@@ -1,7 +1,5 @@
-### Hola a todos 👋
 ![](https://images.cooltext.com/5508903.png)
-<!--
-**vcesar454/vcesar454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola a todos 👋
 
 
 
