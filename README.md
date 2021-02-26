@@ -13,6 +13,8 @@
 - ⚡ Fun fact: Una instrucción que utilizaras mucho en enrutadores Cisco es
 - Router1# show ip interface brief
 -->
+
+
 | Interface          | IP-Address    | OK? | Method | Status | Protocol |
 |--------------------|---------------|-----|--------|--------|----------|
 | GigabitEthernet0/0 | 54.59.109.50  | YES | DHCP   | up     | up       |
